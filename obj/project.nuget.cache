@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9xBWgcsUfyH9yttMUEG/F9OVbRJ9JO8WXEj3a7T78jTB67xW0jK7xC+uUCeSrvkW/MJGWY19maP+FNKW/kVG9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JayC\\source\\repos\\Translator\\Translator\\Translator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JayC\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

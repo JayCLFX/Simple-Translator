@@ -1,0 +1,17 @@
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Translator.exe
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Translator.deps.json
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Translator.runtimeconfig.json
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Translator.dll
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Translator.pdb
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.AssemblyInfoInputs.cache
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.AssemblyInfo.cs
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.csproj.CoreCompileInputs.cache
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.dll
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\refint\Translator.dll
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.pdb
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.genruntimeconfig.cache
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\ref\Translator.dll
+C:\Users\JayC\source\repos\Translator\Translator\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.csproj.AssemblyReference.cache
+C:\Users\JayC\source\repos\Translator\Translator\obj\Debug\net7.0\Translator.csproj.CopyComplete
